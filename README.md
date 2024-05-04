@@ -37,11 +37,11 @@ This project aims to create a real-time data streaming pipeline for road travel,
 ```bash
   git clone https://github.com/TylerDurden786/Rush_Hour.git
 ```
-### Navigate to the project directory:
+### 2. Navigate to the project directory:
 ```bash
   cd rush_hour
 ```
-### Run Docker Compose to spin up the services:
+### 3. Run Docker Compose to spin up the services:
 ```bash
   docker-compose.yaml
 ```
