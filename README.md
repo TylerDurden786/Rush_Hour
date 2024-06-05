@@ -8,6 +8,7 @@
 5. [Technologies](#technologies)
 6. [Getting Started](#getting-started)
 7. [Use Cases](#use-cases)
+8. [Special Mention](#special-mention)
 
 ## Introduction
 This project aims to create a real-time data streaming pipeline for road travel, specifically focusing on the Pune-Mumbai route. It collects various data sources from iot devices to provide insights and visualization for optimizing road travel, improving safety, and enhancing the overall travel experience.
@@ -54,3 +55,6 @@ This project aims to create a real-time data streaming pipeline for road travel,
 | Accident Prevention     | To improve road safety by analyzing GPS and emergency data and identifying patterns of accidents.                  |
 | Weather Impact Assessment | To improve safety by analyzing weather data in correlation with traffic patterns.                                  |
 | Predictive Maintenance  | To minimize downtime, improve productivity and save cost of construction maintenance.                              |
+
+## Special Mention
+Special thanks to Yusuf Ganiyu for his step by step guide with youtube video: https://www.youtube.com/watch?v=Vv_fvwF41_0&t=1563s
